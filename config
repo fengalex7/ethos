@@ -6,10 +6,10 @@ proxypool2 us1-etc.ethermine.org:14444
 flags --cl-global-work 8192 -- cl-local-work-256  --farm-recheck 200
 globalfan 65
 globalcore 800
-globalminer sgminer-gm
+globalminer ethminer
 custompanel alexf123secr
 
-reb 0261b8 1
+reb 0261b8 2
 
 
 
